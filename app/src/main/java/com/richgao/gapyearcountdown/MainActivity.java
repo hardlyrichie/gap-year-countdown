@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onFinish() {
-
+                // TODO add onFinish code to display some sort of celebration
             }
         }.start();
 
