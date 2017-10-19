@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">GapYearCountdown</string>
-    <string name="current">Current: </string>
+    <string name="current">Current:</string>
+    <string name="moveIn">Move In Date:</string>
+    <string name="moveInDate">August 25, 2018</string>
+    <string name="timeLeft">Time Left:</string>
+    <string name="days">Days</string>
+    <string name="hours">Hours</string>
+    <string name="minutes">Minutes</string>
+    <string name="seconds">Seconds</string>
 </resources>
